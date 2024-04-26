@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+}
+
+.header{
+    height: 200px;
+    background-color: rgb(82, 13, 148);
+}
